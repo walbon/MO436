@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "BUILDING: Environment image for Onnx"
+docker build -t ubuntu:onnx -f Dockerfile .
+
+echo "RUN: Executing the script for training LeNet model."
+docker run --rm --net=host -p 8080:8080 -v $PWD/task1:/mo436 --name testing -it ubuntu:onnx

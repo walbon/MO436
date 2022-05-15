@@ -1,0 +1,3 @@
+[submodule "task2/work"]
+	path = task2/work
+	url = git@github.com:walbon/MO436-work.git

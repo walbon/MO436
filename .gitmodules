@@ -1,6 +1,12 @@
 [submodule "task2/work"]
-	path = task2/work
+	path = work
 	url = git@github.com:walbon/MO436-work.git
 [submodule "task2/glow"]
-	path = task2/glow
+	path = glow
 	url = https://github.com/pytorch/glow.git
+[submodule "glow"]
+	path = glow
+	url = git@github.com:walbon/glow.git
+[submodule "work"]
+	path = work
+	url = git@github.com:walbon/MO436-work.git

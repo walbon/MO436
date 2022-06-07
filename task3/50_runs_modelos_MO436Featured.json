@@ -1,0 +1,10 @@
+{ "model": "lenet" , "data": { "L1-dcache-load-misses": 201961, "percent_L1_accesses": "1,51%", "L1-dcache-loads": 13399217, "L1-icache-load-misses": 114692, "duration_time": 35013502 , "time_unit": "ns" ,"cache-misses": 34141 }}
+
+{ "model": "mnist" , "data": { "L1-dcache-load-misses": 13384674, "percent_L1_accesses": "10,83%", "L1-dcache-loads": 123579984, "L1-icache-load-misses": 122856, "duration_time": 140048046 , "time_unit": "ns" ,"cache-misses": 145540 }}
+
+{ "model": "mobilenet" , "data": { "L1-dcache-load-misses": 60782574484, "percent_L1_accesses": "28,64%", "L1-dcache-loads": 212223244403, "L1-icache-load-misses": 8703776, "duration_time": 120989354578 , "time_unit": "ns" ,"cache-misses": 2109109406 }}
+
+{ "model": "resnet18" , "data": { "L1-dcache-load-misses": 66209641436, "percent_L1_accesses": "4,45%", "L1-dcache-loads": 1486496184422, "L1-icache-load-misses": 18373371, "duration_time": 635750253951 , "time_unit": "ns" ,"cache-misses": 2794429309 }}
+
+{ "model": "squeezenet" , "data": { "L1-dcache-load-misses": 25499282691, "percent_L1_accesses": "3,08%", "L1-dcache-loads": 826726137648, "L1-icache-load-misses": 16039611, "duration_time": 477025820140 , "time_unit": "ns" ,"cache-misses": 5283617908 }}
+
